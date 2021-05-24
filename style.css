@@ -12,6 +12,7 @@ body{
 	align-items: center; /*Centraliza verticalmente*/
 	justify-content: center;  /*Centraliza horizontalmente*/
 }
+
 #calculator{
     background-color: rgba(233, 233, 233, 0.363);
     border-radius: 20px;
@@ -19,7 +20,6 @@ body{
     width:520px;
     padding:0 20px 0 20px;
     position:absolute;
-    
 }
 
 #text{
@@ -33,12 +33,11 @@ body{
     text-align: right;
 }
 
-
-
 #buttons{
     margin: 0 auto;
     justify-content: space-between;
 }
+
 button{
     background-color: rgba(233, 233, 233, 0.363);
     border-radius: 10px;
@@ -49,7 +48,6 @@ button{
     border: none;
     font-size: 30px;
     font-weight: bold;
-    
 }
 
 button:hover{
