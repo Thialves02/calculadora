@@ -1,4 +1,4 @@
-<h1>Calculatort</h1>
+<h1>Calculator</h1>
 > Status: Finished ✔️
 
 ### It's a web site where you can make few calculations.
